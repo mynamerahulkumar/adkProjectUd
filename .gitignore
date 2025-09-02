@@ -409,7 +409,7 @@ yarn-error.log*
 # Ignore all .mp4 files
 *.mp4
 *.svg
-*.txt
+# *.txt
 
 # Virtual environment
 venv/
@@ -474,7 +474,7 @@ Thumbs.db
 *.pdf
 
 # Ignore text files
-*.txt
+# *.txt
 
 # Ignore all image file types
 *.png
@@ -554,7 +554,7 @@ Thumbs.db
 *.csv
 
 # Ignore text files
-*.txt
+# *.txt
 
 # ========== PYTHON ==========
 **/__pycache__/
@@ -640,7 +640,7 @@ Thumbs.db
 # Data Files
 **/*.csv
 **/*.tsv
-**/*.txt
+# **/*.txt
 **/*.xls
 **/*.xlsx
 **/*.json

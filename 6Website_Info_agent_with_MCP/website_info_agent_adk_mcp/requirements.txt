@@ -1,0 +1,7 @@
+google-adk
+deprecated
+mcp
+requests
+beautifulsoup4
+lxml
+
